@@ -109,3 +109,21 @@ input {
   display: flex;
   justify-content: space-around;
 }
+
+/* ------------------------- MENU DE NAVIGATION ------------------------*/
+
+.nav {
+  width: 50%;
+  margin: auto;
+  margin-top: 30px;
+}
+
+.nav-ul {
+  display: flex;
+  justify-content: space-evenly;
+  cursor: pointer;
+}
+
+.nav-ul li:hover {
+  border-bottom: 2px solid #ff4040;
+}
