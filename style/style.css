@@ -169,4 +169,10 @@ h1 {
   cursor: pointer;
 }
 
-/* ------------------------ ssection ---------------------*/
+/* ------------------------ section ---------------------*/
+
+.ensemble4 {
+  width: 50%;
+  margin: auto;
+  margin-top: 30px;
+}
