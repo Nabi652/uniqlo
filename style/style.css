@@ -216,4 +216,49 @@ h1 {
   margin-left: 35px;
 }
 
-/* ------------------ section avec 3 photos --------------------*/
+/* ------------------ section avec 3 photos ensemble5 --------------------*/
+
+.ensemble-3-box {
+  display: flex;
+  justify-content: space-between;
+}
+
+.ensemble5 {
+  width: 80%;
+  margin: auto;
+  margin-top: 40px;
+}
+
+.ensemble5 h2 {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.img1,
+.img2,
+.img3 {
+  width: 130px;
+  height: 130px;
+}
+
+.box-texte1 h3,
+.box-texte2 h3,
+.box-texte3 h3 {
+  font-size: 16px;
+  font-weight: normal;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+.box-texte1 p,
+.box-texte2 p,
+.box-texte3 p {
+  font-size: 13px;
+  padding-left: 10px;
+}
+
+.box-stylehint,
+.box-uniqlo,
+.box-sampling {
+  display: flex;
+}
