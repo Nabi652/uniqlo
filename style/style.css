@@ -211,7 +211,9 @@ h1 {
   text-decoration-color: grey;
 }
 
-.offres li,
-.tailles li {
+.tailles li,
+.offres li {
   margin-left: 35px;
 }
+
+/* ------------------ section avec 3 photos --------------------*/
