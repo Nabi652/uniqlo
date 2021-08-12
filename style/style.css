@@ -12,6 +12,7 @@ body {
   overflow-x: hidden;
   list-style-type: none;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  height: 200vh;
 }
 
 /* ---------------------------- header -----------------------------------*/
@@ -172,7 +173,35 @@ h1 {
 /* ------------------------ section ---------------------*/
 
 .ensemble4 {
-  width: 50%;
+  display: flex;
+  width: 80%;
   margin: auto;
+  justify-content: space-between;
   margin-top: 30px;
+}
+
+.ensemble4 ul {
+  display: flex;
+  flex-direction: row;
+}
+
+.ensemble4 h2 {
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+
+.ensemble4 li {
+  font-size: 15px;
+  display: flex;
+  margin-left: 10px;
+  text-decoration: underline;
+  text-decoration-color: grey;
+}
+
+.offres li,
+.tailles li {
+  margin-left: 35px;
 }
