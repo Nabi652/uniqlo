@@ -183,6 +183,16 @@ h1 {
 .ensemble4 ul {
   display: flex;
   flex-direction: row;
+  border-right: 1px solid grey;
+  padding-right: 50px;
+}
+
+.offres ul {
+  padding-right: 110px;
+}
+
+.tailles ul {
+  border: none;
 }
 
 .ensemble4 h2 {
