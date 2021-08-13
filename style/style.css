@@ -263,5 +263,8 @@ h1 {
   display: flex;
 }
 
-/* ----------------------------- section demon slayer -------------------*/ 
+/* ----------------------------- section demon slayer -------------------*/
 
+.demon-slayer-box {
+  margin-top: 25px;
+}
