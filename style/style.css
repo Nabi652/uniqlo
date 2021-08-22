@@ -278,3 +278,20 @@ h1 {
 .demon-slayer-box h3 {
   margin-bottom: 25px;
 }
+
+.demon-slayer-box h4 {
+  display: flex;
+  flex-direction: row;
+}
+
+/* -----------------titres h3 et h4--------------------*/
+
+.titres {
+  display: flex;
+  justify-content: space-around;
+}
+
+.titres-p {
+  display: flex;
+  justify-content: center;
+}
